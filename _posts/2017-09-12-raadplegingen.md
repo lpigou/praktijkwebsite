@@ -64,4 +64,4 @@ Dit kan enkel telefonisch via 09/228.47.45
 
 ### Wachtdienst
 
-Tussen 19u en 8u, in het weekend en op feestdagen kan u voor dringende problemen terecht bij de huisarts van wacht op het nummer 09/236.50.00. Voor meer info, zie [www.huisartsenwachtposten.be](www.huisartsenwachtposten.be)
+Tussen 19u en 8u, in het weekend en op feestdagen kan u voor dringende problemen terecht bij de huisarts van wacht op het nummer 09/236.50.00. Voor meer info, zie [www.huisartsenwachtposten.be](http://www.huisartsenwachtposten.be)
