@@ -1170,6 +1170,7 @@ footer .copyright {
 
 
 .page-cover-image .page-image {
+  margin-top: -100px;
   width: 100%;
   height: 100%;
 }
