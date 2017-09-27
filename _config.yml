@@ -10,22 +10,24 @@ dokter2:
   afbeelding: luyten.jpg
 
 
-tel-text: 09/228.47.45
-tel: +3292284745
+tel: 09/228.47.45
 
 straat: Land van Waaslaan 80
 plaats: 9040 Sint-Amandsberg
 
 
+title: Huisartsenpraktijk Sint-Amandsberg
 
-title: Huisartsen Sint-Amandsberg
-description: Huisartsen Sint-Amandsberg
+
 
 
 
 
 # HIERONDER NIET AANKOMEN
 ###########################
+
+
+description: "Huisartsenpraktijk Sint-Amandsberg, Huisarts, Huisartsen Gent, General Practitioner, Family Doctor, Dokter, Dokters, Evy Luyten, Frédéric Goetghebuer, Dr. Luyten, Dr. Goetghebuer"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
 # Disqus
@@ -36,5 +38,5 @@ markdown: kramdown
 plugins:
   - jekyll-sitemap
 permalink: ':title/'
-
+future: true
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
