@@ -909,10 +909,10 @@ pre code {
   transition: transform 0.35s, -webkit-transform 0.35s;
 }
 
-/*.about img:hover {
+.about img:hover {
   -webkit-transform: scale3d(0.9, 0.9, 1);
           transform: scale3d(0.9, 0.9, 1);
-}*/
+}
 
 .about .author-name {
   font-family: 'PT Serif', serif;
