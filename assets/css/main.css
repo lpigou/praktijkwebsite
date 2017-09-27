@@ -876,6 +876,11 @@ pre code {
   background-color: #ffffff;
 }
 
+.post-date a{
+  color: #263959;
+  font-size: 13px;
+}
+
 .about {
   margin: 0 0 40px;
   text-align: center;
@@ -1143,14 +1148,26 @@ footer .copyright {
   text-transform: uppercase;
 }
 
+.raadplegingen{
+  font-size:14px;
+  padding: 0.4em;
+  color:#000;
+}
+
 .page-cover-image {
   position: relative;
   padding: 0;
   margin: 0;
-  max-height: 500px;
+  max-height: 350px;
   background-color: #fafafa;
   overflow: hidden;
 }
+
+.table-btn{
+  font-size:11px;
+}
+
+
 
 .page-cover-image .page-image {
   width: 100%;

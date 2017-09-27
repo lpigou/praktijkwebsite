@@ -1,6 +1,6 @@
 ---
-title: Nuttige info
-img: workflow.jpg # Add image post (optional)
+title: Nuttige informatie
+img: NUTTIGEINFO.jpg # Add image post (optional)
 date: 2017-09-10 13:32:20 +0300
 layout: post
 ---

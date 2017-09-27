@@ -3,18 +3,21 @@ layout: main
 ---
 
 {% for post in site.posts %}
-<article class="post">
+<article class="post" onclick="location.href='{{post.url | prepend: site.baseurl}}';" style="cursor: pointer;">
   {% if post.img %}
     <a class="post-thumbnail" style="background-image: url({{"/assets/img/" | prepend: site.baseurl | append : post.img}})" href="{{post.url | prepend: site.baseurl}}"></a>
-  {% else %}
+  
   {% endif %}
   <div class="post-content">
     <h2 class="post-title"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
+    {% if post.description %}
+    <p>{{ post.description }}</p>
+    {% else %}
     <p>{{ post.content | strip_html | truncatewords: 30 }}</p>
-    {% if post.date %}
+    {% endif %} 
+
     <!-- <span class="post-date">{{post.date | date: '%Y, %b %d'}}</span> -->
     <div style="text-align:right;" class="post-date"><a href="{{post.url | prepend: site.baseurl}}">Lees meer ...</a></div>
-    {% endif %} 
   </div>
 </article>
 {% endfor %}
