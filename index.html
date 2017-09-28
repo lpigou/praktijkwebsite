@@ -13,8 +13,9 @@ layout: main
     {% if post.description %}
     <p>{{ post.description }}
       {% if post.title == "Raadplegingen" %}
-      <br>
+      <div style="margin-top:-5px;">
       {% include maakeenafspraak.html %}
+      </div>
       {% endif %}
     </p>
     {% else %}
