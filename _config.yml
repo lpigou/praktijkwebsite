@@ -96,7 +96,7 @@ afpraak-link: "https://www.mtc-it4.be/patient/index.html#/appointments/day/bjNkc
 
 description: "Huisartsenpraktijk Sint-Amandsberg, Huisarts, Huisartsen Gent, General Practitioner, Family Doctor, Dokter, Dokters, Evy Luyten, Frédéric Goetghebuer, Dr. Luyten, Dr. Goetghebuer"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
+baseurl: "/praktijkwebsite" # the subpath of your site, e.g. /blog
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
 # Tracker
