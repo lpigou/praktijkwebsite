@@ -9,39 +9,39 @@ layout: default
       <h2><a href="{{site.baseurl}}/" style="text-decoration: none; color:#273a59;">{{ site.title }}</a></h2>
 
       <p>
-        <a class="btn btn-primary" href="tel:{{site.tel-geen-leestekens}}"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp; <b style="color:#fff; font-size:17px;">{{site.tel}}</b></a><!--#0061ff -->
+        <a class="btn btn-primary" href="tel:{{site.tel-geen-leestekens}}"> <b style="color:#fff; font-size:17px;"><i class="fa fa-phone" aria-hidden="true"></i> &nbsp;{{site.tel}}</b></a><!--#0061ff -->
         
       </p>
       <!-- <br> -->
       <p>
-      {{site.straat}} <br> {{site.plaats}}
+      <i class="fa fa-map-marker" aria-hidden="true"></i> &nbsp; {{site.straat}} <br> {{site.plaats}}
       </p>
      <!-- <br>  -->
 
       {% if site.dokter1 %}
       <div class="cover-author-image">
-        <img src="{{site.baseurl}}/assets/img/{% if site.dokter1.afbeelding %}{{site.dokter1.afbeelding}}{% endif %}" alt="{{site.dokter1.achternaam}}">
+        <img src="{{site.baseurl}}/afbeeldingen/{% if site.dokter1.afbeelding %}{{site.dokter1.afbeelding}}{% endif %}" alt="{{site.dokter1.achternaam}}">
       </div>
 
-      <div class="author-name">Dr. {{site.dokter1.voornaam}} {{site.dokter1.achternaam}}</div>
+      <div class="author-name"><span class="firstname">Dr. {{site.dokter1.voornaam}}</span> {{site.dokter1.achternaam}}</div>
       <!-- <br> -->
       {% endif %}
 
       {% if site.dokter2 %}
       <div class="cover-author-image">
-        <img src="{{site.baseurl}}/assets/img/{% if site.dokter2.afbeelding %}{{site.dokter2.afbeelding}}{% endif %}" alt="{{site.dokter2.achternaam}}">
+        <img src="{{site.baseurl}}/afbeeldingen/{% if site.dokter2.afbeelding %}{{site.dokter2.afbeelding}}{% endif %}" alt="{{site.dokter2.achternaam}}">
       </div>
 
-      <div class="author-name">Dr. {{site.dokter2.voornaam}} {{site.dokter2.achternaam}}</div>
+      <div class="author-name"><span class="firstname">Dr. {{site.dokter2.voornaam}}</span>  {{site.dokter2.achternaam}}</div>
       <!-- <br> -->
       {% endif %}
 
       {% if site.dokter3 %}
       <div class="cover-author-image">
-        <img src="{{site.baseurl}}/assets/img/{% if site.dokter3.afbeelding %}{{site.dokter3.afbeelding}}{% endif %}" alt="{{site.dokter3.achternaam}}">
+        <img src="{{site.baseurl}}/afbeeldingen/{% if site.dokter3.afbeelding %}{{site.dokter3.afbeelding}}{% endif %}" alt="{{site.dokter3.achternaam}}">
       </div>
 
-      <div class="author-name">Dr. {{site.dokter3.voornaam}} {{site.dokter3.achternaam}}</div>
+      <div class="author-name"><span class="firstname">Dr. {{site.dokter3.voornaam}}</span>  {{site.dokter3.achternaam}}</div>
       <!-- <br> -->
       {% endif %}
 

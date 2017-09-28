@@ -1,6 +1,6 @@
 ---
 title: Nuttige informatie
-img: NUTTIGEINFO.jpg # Add image post (optional)
+img: NUTTIGEINFO.jpg
 date: 2017-09-10 13:32:20 +0300
 layout: post
 ---

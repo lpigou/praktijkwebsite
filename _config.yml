@@ -1,13 +1,40 @@
+# Opgelet: altijd een spatie laten na ':'
+
+
+# Uurrooster:
+maandag:
+  voormiddag: Dr. Luyten, afspraak
+  namiddag:
+  avond: Dr. Goetghebuer, 17u-19u30, vrije consultatie
+dinsdag:
+  voormiddag: Dr. Goetghebuer, afspraak
+  namiddag:
+  avond: Dr. Luyten, afspraak
+woensdag:
+  voormiddag: Dr. Luyten / Dr. Goetghebuer, afwisselend, afspraak
+  namiddag: Dr. Luyten / Dr. Goetghebuer, afwisselend, afspraak
+  avond: Dr. Luyten / Dr. Goetghebuer, afwisselend, afspraak
+donderdag:
+  voormiddag: Dr. Goetghebuer, afspraak
+  namiddag:
+  avond: Dr. Luyten, afspraak
+vrijdag:
+  voormiddag: Dr. Luyten / Dr. Goetghebuer, afwisselend, afspraak
+  namiddag: Dr. Luyten / Dr. Goetghebuer, afwisselend, afspraak
+  avond: Dr. Luyten / Dr. Goetghebuer, afwisselend, afspraak
+
+
+
 dokter1:
   voornaam: Frédéric
   achternaam: Goetghebuer
   afbeelding: dokter1.jpg
 
-
 dokter2:
   voornaam: Evy
   achternaam: Luyten
   afbeelding: luyten.jpg
+
 
 
 tel: 09/228.47.45
@@ -16,8 +43,45 @@ tel-geen-leestekens: +3292284745
 straat: Land van Waaslaan 80
 plaats: 9040 Sint-Amandsberg
 
+# latitude en longitude voor Google Maps
+lat: 51.0579698
+lng: 3.7450427
+
 
 title: Huisartsenpraktijk Sint-Amandsberg
+
+
+# De link tussen aanhalingstekens plaatsen!
+afpraak-link: "https://www.mtc-it4.be/patient/index.html#/appointments/day/bjNkcWkyQmFRMkpDVTRFNndleFgzQUVXOUM5YmFUWU4wbHNlWHF6MnJNSDdDYUFQdWNjdzZNcm82MU9pYk00Uw==/"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -26,6 +90,8 @@ title: Huisartsenpraktijk Sint-Amandsberg
 
 # HIERONDER NIET AANKOMEN
 ###########################
+
+
 
 
 description: "Huisartsenpraktijk Sint-Amandsberg, Huisarts, Huisartsen Gent, General Practitioner, Family Doctor, Dokter, Dokters, Evy Luyten, Frédéric Goetghebuer, Dr. Luyten, Dr. Goetghebuer"

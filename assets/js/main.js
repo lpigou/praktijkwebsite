@@ -1,17 +1,29 @@
+---
+---
 function ready(){
-	console.log("test");
 	var x = document.getElementsByClassName("page-image")[0];
-	console.log(x);
-	console.log(x.height);
-
-
+	if(x == null) return;
 
 	if(x.height > 300){
 		x.style.marginTop = ""+-(x.height-300)/2.0+"px";
 	}
 }
 
-document.getElementsByClassName("page-image")[0].onload = ready;
+var y = document.getElementsByClassName("page-image")[0];
+if(y != null) y.onload = ready;
 document.addEventListener("DOMContentLoaded", ready);
 window.onresize = ready;
 window.onload = ready;
+
+
+function initMap() {
+	var uluru = {lat: {{site.lat}} , lng: {{site.lng}}};
+	var map = new google.maps.Map(document.getElementById('map'), {
+	  zoom: 16,
+	  center: uluru
+	});
+	var marker = new google.maps.Marker({
+	  position: uluru,
+	  map: map
+	});
+}

@@ -1,0 +1,54 @@
+{% capture maa_vm %} {{ site.maandag.voormiddag }} {% endcapture %}
+{% capture maa_nm %} {{ site.maandag.namiddag }} {% endcapture %}
+{% capture maa_av %} {{ site.maandag.avond }} {% endcapture %}
+{% capture din_vm %} {{ site.dinsdag.voormiddag }} {% endcapture %}
+{% capture din_nm %} {{ site.dinsdag.namiddag }} {% endcapture %}
+{% capture din_av %} {{ site.dinsdag.avond }} {% endcapture %}
+{% capture woe_vm %} {{ site.woensdag.voormiddag }} {% endcapture %}
+{% capture woe_nm %} {{ site.woensdag.namiddag }} {% endcapture %}
+{% capture woe_av %} {{ site.woensdag.avond }} {% endcapture %}
+{% capture don_vm %} {{ site.donderdag.voormiddag }} {% endcapture %}
+{% capture don_nm %} {{ site.donderdag.namiddag }} {% endcapture %}
+{% capture don_av %} {{ site.donderdag.avond }} {% endcapture %}
+{% capture vri_vm %} {{ site.vrijdag.voormiddag }} {% endcapture %}
+{% capture vri_nm %} {{ site.vrijdag.namiddag }} {% endcapture %}
+{% capture vri_av %} {{ site.vrijdag.avond }} {% endcapture %}
+
+<table class="table table-striped table-bordered table-sm table-responsive raadplegingen">
+  <thead class="thead-inverse">
+    <tr>
+      <th></th>
+      <th>Maandag</th>
+      <th>Dinsdag</th>
+      <th>Woensdag</th>
+      <th>Donderdag</th>
+      <th>Vrijdag</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row" class="table-inverse">Voor-<br>middag</th>
+      <td>{% include tabelitem.html param=maa_vm %}</td>
+      <td>{% include tabelitem.html param=din_vm %}</td>
+      <td>{% include tabelitem.html param=woe_vm %}</td>
+      <td>{% include tabelitem.html param=don_vm %}</td>
+      <td>{% include tabelitem.html param=vri_vm %}</td>
+    </tr>
+    <tr>
+      <th scope="row" class="table-inverse">Na-<br>middag</th>
+      <td>{% include tabelitem.html param=maa_nm %}</td>
+      <td>{% include tabelitem.html param=din_nm %}</td>
+      <td>{% include tabelitem.html param=woe_nm %}</td>
+      <td>{% include tabelitem.html param=don_nm %}</td>
+      <td>{% include tabelitem.html param=vri_nm %}</td>
+    </tr>
+    <tr>
+      <th scope="row" class="table-inverse">Avond</th>
+      <td>{% include tabelitem.html param=maa_av %}</td>
+      <td>{% include tabelitem.html param=din_av %}</td>
+      <td>{% include tabelitem.html param=woe_av %}</td>
+      <td>{% include tabelitem.html param=don_av %}</td>
+      <td>{% include tabelitem.html param=vri_av %}</td>
+    </tr>
+  </tbody>
+</table>

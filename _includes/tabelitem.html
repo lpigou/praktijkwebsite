@@ -1,0 +1,45 @@
+{% capture s %} "{{include.param | downcase}}" {% endcapture %}
+{% assign arr = include.param | split:"," %}
+{% assign rest = '' | split: '' %}
+{% assign fir = arr | first %}
+{% assign tags = "vrije consultatie,afspraak,afwisselend" | split: ',' %}
+
+{% for r in arr %}
+	{% assign d = "" | split: '' %}
+	{% for t in tags %}
+		{% if r contains t or r contains fir %}
+		    {% assign di = "t" | split: '549481' %}
+    		{% assign d = d | concat: di %}
+		{% endif %}
+	{% endfor %}
+
+	{% assign si = d | size %}
+	{% if si == 0 %}
+		{% assign item = r | split: '549481' %}
+	    {% assign rest = rest | concat: item %}
+    {% endif %}
+{% endfor %}
+
+{% if s contains "afwisselend"  %}
+<span class="badge badge-primary table-btn">Afwisselend</span>
+<br> 
+
+{% endif %}
+
+{{ fir }}
+
+
+{% if s contains "afspraak"  %}
+<br>
+<span class="badge badge-default table-btn">Op Afspraak</span>
+{% endif %}
+
+{% if s contains "vrije consultatie"  %}
+<br>
+<span class="badge badge-success table-btn">Vrije Consultatie</span>
+{% endif %}
+
+{% for r in rest %}
+<br>
+<span class="badge badge-danger table-btn">{{r}}</span>
+{% endfor %}
