@@ -3,7 +3,7 @@ Uurrooster en algemene gegevens wijzigen in *_config.yml*.
 
 # Rubrieken
 Rubrieken wijzigen in de map *_posts*. <br>
-Met *description* wijzig je de tekst op de startpagina.
+Met *description* wijzig je de tekst op de startpagina. <br>
 De *date* wordt enkel gebruikt om de rubrieken te sorteren van boven naar onder.
 
 De tekst wordt geformatteerd volgens deze regels: [http://commonmark.org/help/](http://commonmark.org/help/).<br>
