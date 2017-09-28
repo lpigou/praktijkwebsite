@@ -12,5 +12,5 @@ Begin een nieuwe lijn met `<br>`
 Om een nieuwe rubriek aan te maken, maak je een nieuw bestand in de *_posts* map met de naam *YYYY_MM_DD_titel.md*.
 
 # Afbeeldingen
-Afbeeldingen plaats je in de map *afbeeldingen*.
-Hoe groter de afbeelding, hoe trager hij zal laden.
+Afbeeldingen plaats je in de map *afbeeldingen*.<br>
+Hoe groter de afbeelding, hoe trager.
