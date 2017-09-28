@@ -2,7 +2,7 @@
 Uurrooster en algemene gegevens wijzigen in *_config.yml*.
 
 # Rubrieken
-Rubrieken wijzigen in de map *_posts* <br>
+Rubrieken wijzigen in de map *_posts*. <br>
 Met *description* wijzig je de tekst op de startpagina.
 De *date* wordt enkel gebruikt om de rubrieken te sorteren van boven naar onder.
 
