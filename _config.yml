@@ -3,25 +3,25 @@
 
 # Uurrooster:
 maandag:
-  voormiddag: Dr. Luyten, afspraak
+  voormiddag: Dr. Luyten
   namiddag:
   avond: Dr. Goetghebuer, 17u-19u30, vrije consultatie
 dinsdag:
-  voormiddag: Dr. Goetghebuer, afspraak
+  voormiddag: Dr. Goetghebuer
   namiddag:
-  avond: Dr. Luyten, afspraak
+  avond: Dr. Luyten
 woensdag:
-  voormiddag: Dr. Luyten / Dr. Goetghebuer, afwisselend, afspraak
-  namiddag: Dr. Luyten / Dr. Goetghebuer, afwisselend, afspraak
-  avond: Dr. Luyten / Dr. Goetghebuer, afwisselend, afspraak
+  voormiddag: Dr. Luyten / Dr. Goetghebuer, afwisselend
+  namiddag: Dr. Luyten / Dr. Goetghebuer, afwisselend
+  avond: Dr. Luyten / Dr. Goetghebuer, afwisselend
 donderdag:
-  voormiddag: Dr. Goetghebuer, afspraak
+  voormiddag: Dr. Goetghebuer
   namiddag:
-  avond: Dr. Luyten, afspraak
+  avond: Dr. Luyten
 vrijdag:
-  voormiddag: Dr. Luyten / Dr. Goetghebuer, afwisselend, afspraak
-  namiddag: Dr. Luyten / Dr. Goetghebuer, afwisselend, afspraak
-  avond: Dr. Luyten / Dr. Goetghebuer, afwisselend, afspraak
+  voormiddag: Dr. Luyten / Dr. Goetghebuer, afwisselend
+  namiddag: Dr. Luyten / Dr. Goetghebuer, afwisselend
+  avond: Dr. Luyten / Dr. Goetghebuer, afwisselend
 
 
 
