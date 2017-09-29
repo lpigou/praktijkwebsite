@@ -12,7 +12,7 @@ layout: post
 {% include maakeenafspraak.html %}
 
 Vrije consultaties zijn mogelijk op maandagavond bij Dr. Goetghebuer. <br>
-Alle andere consultatiemomenten zijn op afspraak. <br>
+Alle andere consultatiemomenten zijn **op afspraak**. <br>
 Afspraken kunnen telefonisch via 09/228.47.45 of online via [www.afspraken.be]({{site.afspraak-link}}) gemaakt worden.<br>
 Gelieve steeds uw **identiteitskaart** en een klevertje van de mutualiteit mee te nemen.  
 
