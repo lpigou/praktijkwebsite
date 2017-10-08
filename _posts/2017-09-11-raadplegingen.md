@@ -1,6 +1,6 @@
 ---
 title: Raadplegingen
-img: raadpleging.png
+img: raadpleging3.png
 description: "Afspraken kunnen telefonisch via 09/228.47.45 of online via www.afspraken.be gemaakt worden."
 date: 2017-09-11 13:32:20 +0300
 layout: post
