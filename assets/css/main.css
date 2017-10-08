@@ -46,6 +46,12 @@ h1 {
   margin: 0.67em 0;
 }
 
+.btn-primary {
+    color: #fff;
+    background-color: #00acb4;
+    border-color: #00acb4;
+}
+
 h2{
   font-size: 1.7em;
   font-weight: 600;
@@ -949,7 +955,7 @@ pre code {
 .about h2 {
     font-family: 'PT Serif', serif;
     text-decoration: none;
-    color: #263959;
+    color: #fff;
     font-weight: normal;
     font-size: 25px;
 }
@@ -1127,7 +1133,7 @@ footer .copyright {
 .post .post-content .post-title a {
   font-family: 'PT Serif', serif;
   text-decoration: none;
-  color: #263959;
+  color: #fff;
 }
 
 .post .post-content p {
@@ -1224,7 +1230,7 @@ footer .copyright {
   border: 1px solid #ecf0f1;
   padding: 5px 10px;
   margin-left: 5px;
-  color: #263959;
+  color: #fff;
   font-size: 12px;
   -webkit-transition: background-color .3s;
   -o-transition: background-color .3s;
@@ -1244,9 +1250,9 @@ footer .copyright {
   font-size: 10px;
   padding: 5px 10px;
   margin-left: 5px;
-  color: #263959;
+  color: #fff;
   text-transform: uppercase;
-  border: 1px solid #263959;
+  border: 1px solid #fff;
 }
 
 .page-footer .page-tag a:hover {
@@ -1264,11 +1270,11 @@ footer .copyright {
   font-size: 30px;
   text-align: center;
   line-height: 1.3;
-  color: #263959;
+  color: #fff;
 }
 
 .blog-tags h2 {
-  color: #263959;
+  color: #fff;
   margin: 10px 0;
 }
 
@@ -1285,7 +1291,7 @@ footer .copyright {
 
 .tags li a {
   text-decoration: none;
-  color: #263959;
+  color: #fff;
   display: inline-block;
   padding: 5px 10px;
   border: 1px solid #ecf0f1;
@@ -1301,7 +1307,7 @@ footer .copyright {
 
 .tag-list span a {
   text-decoration: none;
-  color: #263959;
+  color: #fff;
 }
 
 .tag-list span a:hover {
