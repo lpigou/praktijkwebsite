@@ -93,8 +93,8 @@ afpraak-link: "https://www.mtc-it4.be/patient/index.html#/appointments/day/bjNkc
 
 
 
-title-meta: "Huisartsenpraktijk Sint-Amandsberg: Dr. Goetghebuer Frédéric, Dr. Luyten Evy"
-description: "Een afspraak bij huisarts Dr. Frédéric Goetghebuer of huisarts Dr. Evy Luyten kan telefonisch (09/228.47.45) of online gemaakt worden."
+
+description: "Huisartsenpraktijk Sint-Amandsberg, Huisarts, Huisartsen Gent, General Practitioner, Family Doctor, Dokter, Dokters, Evy Luyten, Frédéric Goetghebuer, Dr. Luyten, Dr. Goetghebuer"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 # Disqus
@@ -104,7 +104,6 @@ analytics: # Google Analytics
 markdown: kramdown
 plugins:
   - jekyll-sitemap
- 
 permalink: ':title/'
 future: true
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]

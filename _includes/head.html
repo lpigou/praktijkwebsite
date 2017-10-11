@@ -1,12 +1,11 @@
 <head>
-	<title>{% if page.title %}{{page.title}}-{{site.title-meta}}{% else %}{{site.title-meta}}{% endif %}</title>
-	<meta name="description" content="{% if page.description %}{{page.description}}{% else %}{{site.description}}{% endif %}">
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta charset="utf-8">
+	<title>{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}</title>
+	<meta name="description" content="{{ page.description }}">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="robots" content="index,follow">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 	<meta property="og:image" content="">
-	<meta name="keywords" content="huisarts, huisartsen, dokter, dokters, evy luyten, luyten, goetghebuer, gent, praktijk, huisartspraktijk, huisartsenprakijk, geneeskunde, huisartsgeneeskunde, consultatie, afspraak, huisbezoek, sint-amandsberg">
+	<link rel="shortcut icon" href="{{ "/assets/img/favicon/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">
 	<link rel="apple-touch-icon" href="{{ "/assets/img/favicon/apple-touch-icon.png" | prepend: site.baseurl }}">
 	<link rel="apple-touch-icon" sizes="72x72" href="{{ "/assets/img/favicon/apple-touch-icon-72x72.png" | prepend: site.baseurl }}">
 	<link rel="apple-touch-icon" sizes="114x114" href="{{ "/assets/img/favicon/apple-touch-icon-114x114.png" | prepend: site.baseurl }}">
