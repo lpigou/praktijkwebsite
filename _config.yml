@@ -104,6 +104,7 @@ analytics: # Google Analytics
 markdown: kramdown
 plugins:
   - jekyll-sitemap
+ 
 permalink: ':title/'
 future: true
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
