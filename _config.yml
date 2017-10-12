@@ -93,8 +93,8 @@ afpraak-link: "https://www.mtc-it4.be/patient/index.html#/appointments/day/bjNkc
 
 
 
-mettitle: "Huisartsenpraktijk Gent Sint-Amandsberg: Dokter Goetghebuer Frédéric, Dokter Luyten Evy"
-description: "Een afspraak bij huisarts Dr. Frédéric Goetghebuer of huisarts Dr. Evy Luyten kan telefonisch (09/228.47.45) of online gemaakt worden."
+mettitle: "Dr. Goetghebuer, Dr. Luyten, Huisartsenpraktijk Gent Sint-Amandsberg"
+description: "Een afspraak bij Dokter Frédéric Goetghebuer of Dokter Evy Luyten kan telefonisch 09/228.47.45 of online gemaakt worden. Huisarts in Gent en Sint-Amandsberg."
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 # Disqus
