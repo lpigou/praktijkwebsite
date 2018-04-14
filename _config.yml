@@ -4,24 +4,24 @@
 # Uurrooster:
 maandag:
   voormiddag: Dr. Luyten
-  namiddag: 
-  avond: Dr. Goetghebuer
+  namiddag: Dr. Nys
+  avond: Dr. Goetghebuer/ Dr. Nys
 dinsdag:
   voormiddag: Dr. Goetghebuer
-  namiddag: 
-  avond: Dr. Luyten
+  namiddag: Dr. Nys
+  avond: Dr. Luyten / Dr. Nys
 woensdag:
-  voormiddag: Dr. Luyten / Dr. Goetghebuer, afwisselend
-  namiddag: Dr. Luyten / Dr. Goetghebuer, afwisselend
-  avond: Dr. Luyten / Dr. Goetghebuer, afwisselend
+  voormiddag: Dr. Luyten enkel even weken / Dr. Goetghebuer om de 2 weken
+  namiddag: Dr. Luyten / Dr. Goetghebuer om de 2 weken / Dr. Nys
+  avond: Dr. Luyten / Dr. Goetghebuer om de 2 weken / Dr. Nys
 donderdag:
   voormiddag: Dr. Goetghebuer
-  namiddag:
-  avond: Dr. Luyten
+  namiddag: Dr. Luyten / Dr. Nys
+  avond: Dr. Luyten / Dr. Nys
 vrijdag:
-  voormiddag: Dr. Luyten / Dr. Goetghebuer, afwisselend
-  namiddag: Dr. Luyten / Dr. Goetghebuer, afwisselend
-  avond: Dr. Luyten / Dr. Goetghebuer, afwisselend
+  voormiddag: Dr. Luyten / Dr. Goetghebuer
+  namiddag: Dr. Luyten / Dr. Nys
+  avond: Dr. Luyten / Dr. Nys
 
 
 
