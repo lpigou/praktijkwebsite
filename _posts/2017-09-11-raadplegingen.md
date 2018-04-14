@@ -11,8 +11,7 @@ layout: post
 
 {% include maakeenafspraak.html %}
 
-Vrije consultaties zijn mogelijk op maandagavond bij Dr. Goetghebuer. <br>
-Alle andere consultatiemomenten zijn **op afspraak**. <br>
+Om lange wachttijden te voorkomen, zijn consultaties steeds **op afspraak**. <br>
 U kan uw afspraak telefonisch via 09/228.47.45 of online via [www.afspraken.be]({{site.afspraak-link}}) vastleggen.<br> <br>
 Gelieve steeds uw **identiteitskaart** mee te nemen. Komt u met uw zoon of dochter jonger dan 12j, gelieve dan zijn of haar kids-ID of ISI-pluskaart niet te vergeten.
 
@@ -30,4 +29,6 @@ Tussen 19u en 8u, in het weekend en op feestdagen kan u voor dringende problemen
 Voor meer informatie omtrent de wachtdienst kan u terecht op [www.huisartsenwachtposten.be](http://www.huisartsenwachtposten.be).
 
 ### Tarieven
-Vanaf 1 januari 2018 gelden nieuwe conventietarieven. U betaalt voor een consultatie €25.5, voor een avondconsultatie (vanaf 18u) €29.5 en voor een huisbezoek €37.5. Betalen kan contant, via de Payconiq app, Bancontact app of via de app van uw bank (met QR-code). Indien u recht hebt op de derdebetalersregeling, neem dan zeker uw identitieitskaart mee.
+Vanaf 1 januari 2018 gelden nieuwe conventietarieven. U betaalt voor een consultatie €25.5, voor een avondconsultatie (vanaf 18u) €29.5 en voor een huisbezoek €37.5. <br>
+Betalen kan contant, via de Payconiq app, Bancontact app of via de app van uw bank (met QR-code). <br>
+Indien u recht hebt op de derdebetalersregeling, neem dan zeker uw identitieitskaart mee.
