@@ -1,7 +1,7 @@
 ---
 title: Nuttige informatie
 img: NUTTIGEINFO.jpg
-description: "Andere nuttige contactgegevens"
+description: "Andere nuttige contactgegevens, info over het GMD en de privacyverklaring"
 date: 2017-09-10 13:32:20 +0300
 layout: post
 ---
