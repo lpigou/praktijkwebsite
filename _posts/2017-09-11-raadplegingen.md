@@ -17,6 +17,8 @@ Gelieve steeds uw **identiteitskaart** mee te nemen. Komt u met uw zoon of docht
 
 {% include uurrooster.html %}
 
+**An Vanhooren** (psycholoog) is aanwezig elke 1e woensdagvoormiddag van de maand.
+
 ### Huisbezoeken
 
 Indien u niet in staat bent naar de praktijk te komen, kan u **voor 10 uur ’s ochtends** een huisbezoek aanvragen. <br>
