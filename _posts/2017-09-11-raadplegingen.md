@@ -17,7 +17,7 @@ Gelieve steeds uw **identiteitskaart** mee te nemen. Komt u met uw zoon of docht
 
 {% include uurrooster.html %}
 
-**An Vanhooren** (psycholoog) is aanwezig elke 1e woensdagvoormiddag van de maand.
+**An Vanhooren (psycholoog)** is aanwezig elke 1e en 3e woensdagvoormiddag van de maand. Een afspraak bij haar kan via  info@anvanhooren.be of 0478/84.65.73.
 
 ### Huisbezoeken
 
