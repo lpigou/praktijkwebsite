@@ -49,6 +49,15 @@ layout: default
       <div class="author-name"><span class="firstname">Dr. {{site.dokter3.voornaam}}</span>  {{site.dokter3.achternaam}}</div>
       <!-- <br> -->
       {% endif %}
+      
+      {% if site.dokter4 %}
+      <div class="cover-author-image">
+        <img src="{{site.baseurl}}/afbeeldingen/{% if site.dokter4.afbeelding %}{{site.dokter4.afbeelding}}{% endif %}" alt="{{site.dokter4.achternaam}}">
+      </div>
+
+      <div class="author-name"><span class="firstname">{{site.dokter4.voornaam}}</span>  {{site.dokter4.achternaam}}</div>
+      <!-- <br> -->
+      {% endif %}
 
       <!-- <br><br> -->
 
