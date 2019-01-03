@@ -31,6 +31,6 @@ Tussen 19u en 8u, in het weekend en op feestdagen kan u voor dringende problemen
 Voor meer informatie omtrent de wachtdienst kan u terecht op [www.huisartsenwachtposten.be](http://www.huisartsenwachtposten.be).
 
 ### Tarieven
-Vanaf 1 januari 2018 gelden nieuwe conventietarieven. U betaalt voor een consultatie €25.5, voor een avondconsultatie (vanaf 18u) €29.5 en voor een huisbezoek €37.5. <br>
+Vanaf 1 januari 2019 gelden nieuwe conventietarieven. U betaalt voor een consultatie €26.5, voor een avondconsultatie (vanaf 18u) €30.5 en voor een huisbezoek €39. <br>
 Betalen kan contant, via de Payconiq app, Bancontact app of via de app van uw bank (met QR-code). <br>
 Indien u recht hebt op de derdebetalersregeling, neem dan zeker uw identitieitskaart mee.
