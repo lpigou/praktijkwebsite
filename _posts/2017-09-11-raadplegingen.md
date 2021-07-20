@@ -31,4 +31,4 @@ Voor meer informatie omtrent de wachtdienst kan u terecht op [www.huisartsenwach
 ### Tarieven
 Vanaf 1 januari 2020 gelden nieuwe conventietarieven. U betaalt voor een consultatie €27, voor een avondconsultatie (vanaf 18u) €31 en voor een huisbezoek €40. <br>
 Betalen kan contant, via de Payconiq app, Bancontact app of via de app van uw bank (met QR-code). Betalen met kaart en betaalterminal is niet mogelijk. <br>
-Indien u recht hebt op de derdebetalersregeling, neem dan zeker uw identitieitskaart mee.
+Indien u recht hebt op de derdebetalersregeling, neem dan zeker uw identiteitskaart mee.
