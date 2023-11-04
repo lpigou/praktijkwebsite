@@ -16,7 +16,7 @@ U kan uw afspraak bij je huisarts telefonisch via 09/228.47.45 of online via [ww
 Gelieve steeds uw **identiteitskaart** mee te nemen. Komt u met uw zoon of dochter jonger dan 12j, gelieve dan zijn of haar kids-ID of ISI-pluskaart niet te vergeten.
 
 ![Image]({{ site.url }}/afbeeldingen/uurrooster.jpg)
-{% include uurrooster.html %}
+
 
 ### Huisbezoeken
 
