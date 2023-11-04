@@ -19,8 +19,8 @@ Gelieve steeds uw **identiteitskaart** mee te nemen. Komt u met uw zoon of docht
 
 ### Huisbezoeken
 
-Indien u niet in staat bent naar de praktijk te komen, kan u **voor 10 uur ’s ochtends** een huisbezoek aanvragen. <br>
-Dit kan enkel telefonisch via 09/228.47.45.
+Indien u niet in staat bent naar de praktijk te komen, kan u **’s ochtends** een huisbezoek aanvragen. Dit kan enkel telefonisch via 09/228.47.45. We kunnen niet steeds een huisbezoek dezelfde dag beloven. <br>
+
 
 
 ### Wachtdienst
