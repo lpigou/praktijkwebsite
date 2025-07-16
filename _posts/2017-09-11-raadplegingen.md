@@ -26,7 +26,7 @@ Indien u niet in staat bent naar de praktijk te komen, kan u **’s ochtends** e
 
 ### Wachtdienst
 
-Tussen 19u en 8u, in het weekend en op feestdagen kan u voor dringende problemen terecht bij de huisarts van wacht op het nummer **1733**. <br>
+Tussen 18u en 8u, in het weekend en op feestdagen kan u voor dringende problemen terecht bij de huisarts van wacht op het nummer **1733**. <br>
 Voor meer informatie omtrent de wachtdienst kan u terecht op [www.huisartsenwachtposten.be](http://www.huisartsenwachtposten.be).
 
 ### Tarieven
