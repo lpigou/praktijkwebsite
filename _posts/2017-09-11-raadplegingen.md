@@ -17,6 +17,8 @@ Gelieve steeds uw **identiteitskaart** mee te nemen. Komt u met uw zoon of docht
 
 ![Image]({{ site.url }}/afbeeldingen/uurrooster.jpg)
 
+### Voorschriften
+Zowel arts als patient worden niet graag gestoord. Gelieve voor elk voorschrift een afspraak te maken.<br><br>
 
 ### Huisbezoeken
 
