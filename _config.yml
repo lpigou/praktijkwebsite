@@ -42,6 +42,11 @@ dokter3:
   
 
 dokter4:
+  voornaam: Dr. Pieter
+  achternaam: Smeets
+  afbeelding: pieter.jpg
+
+  dokter5:
   voornaam: Dr. Myriam
   achternaam: Nys
   afbeelding: Nys.jpg
