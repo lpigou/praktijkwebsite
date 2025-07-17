@@ -59,6 +59,24 @@ layout: default
       <!-- <br> -->
       {% endif %}
 
+      {% if site.dokter5 %}
+      <div class="cover-author-image">
+        <img src="{{site.baseurl}}/afbeeldingen/{% if site.dokter5.afbeelding %}{{site.dokter5.afbeelding}}{% endif %}" alt="{{site.dokter5.achternaam}}">
+      </div>
+
+      <div class="author-name"><span class="firstname">{{site.dokter5.voornaam}}</span>  {{site.dokter5.achternaam}}</div>
+      <!-- <br> -->
+      {% endif %}
+
+      {% if site.dokter6 %}
+      <div class="cover-author-image">
+        <img src="{{site.baseurl}}/afbeeldingen/{% if site.dokter6.afbeelding %}{{site.dokter6.afbeelding}}{% endif %}" alt="{{site.dokter6.achternaam}}">
+      </div>
+
+      <div class="author-name"><span class="firstname">{{site.dokter6.voornaam}}</span>  {{site.dokter6.achternaam}}</div>
+      <!-- <br> -->
+      {% endif %}
+
       <!-- <br><br> -->
 
     </div>
