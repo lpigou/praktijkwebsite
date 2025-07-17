@@ -12,7 +12,7 @@ layout: post
 {% include maakeenafspraak.html %}
 
 Om lange wachttijden te voorkomen, zijn consultaties steeds **op afspraak**. <br>
-U kan uw afspraak bij je huisarts telefonisch via 09/228.47.45 of online via [www.afspraken.be](https://www.mtc-it4.be/patient/index.html#/appointments/multi/bjNkcWkyQmFRMkpDVTRFNndleFgzQUVXOUM5YmFUWU4wbHNlWHF6MnJNSDdDYUFQdWNjdzZNcm82MU9pYk00Uw==) vastleggen.<br> <br>
+U kan uw afspraak bij de huisarts telefonisch via 09/228.47.45 of online via [www.afspraken.be](https://www.mtc-it4.be/patient/index.html#/appointments/multi/bjNkcWkyQmFRMkpDVTRFNndleFgzQUVXOUM5YmFUWU4wbHNlWHF6MnJNSDdDYUFQdWNjdzZNcm82MU9pYk00Uw==) vastleggen.<br> <br>
 Gelieve steeds uw **identiteitskaart** mee te nemen. Komt u met uw zoon of dochter jonger dan 12j, gelieve dan zijn of haar kids-ID of ISI-pluskaart niet te vergeten.
 
 ### Voorschriften
